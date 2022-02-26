@@ -10,6 +10,12 @@
 - Merging IDF + IDF, epJSON + epJSON, IDF + epJSON
 - Bidirectional translation between IDF <-> epJSON
 
+## Advice
+
+ BHoM_EnergyPlus_YAT + [Honeybee](https://github.com/ladybug-tools/honeybee-energy) = :heart: 
+ 
+Use Honeybee to create a quick base IDF and add any further functionality with this toolkit. This way you combine the simplicity of Honeybee without loosing power of customization. 
+
 ## Demo
 
 ![Create Simulation file](/docs/Gifs/BHoM_EnergyPlus_YAT_Grasshopper_Demo.gif)

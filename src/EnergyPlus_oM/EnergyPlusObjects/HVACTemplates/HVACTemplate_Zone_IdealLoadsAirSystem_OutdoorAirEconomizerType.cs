@@ -1,0 +1,18 @@
+namespace BH.oM.Adapters.EnergyPlus.HVACTemplates
+{
+    public enum HVACTemplate_Zone_IdealLoadsAirSystem_OutdoorAirEconomizerType
+    {
+        
+        [System.Runtime.Serialization.EnumMember(Value="")]
+        Empty = 0,
+        
+        [System.Runtime.Serialization.EnumMember(Value="DifferentialDryBulb")]
+        DifferentialDryBulb = 1,
+        
+        [System.Runtime.Serialization.EnumMember(Value="DifferentialEnthalpy")]
+        DifferentialEnthalpy = 2,
+        
+        [System.Runtime.Serialization.EnumMember(Value="NoEconomizer")]
+        NoEconomizer = 3,
+    }
+}

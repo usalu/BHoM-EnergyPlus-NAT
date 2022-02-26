@@ -1,0 +1,15 @@
+namespace BH.oM.Adapters.EnergyPlus.ZoneHVACRadiativeConvectiveUnits
+{
+    public enum ZoneHVAC_LowTemperatureRadiant_VariableFlow_NumberOfCircuits
+    {
+        
+        [System.Runtime.Serialization.EnumMember(Value="")]
+        Empty = 0,
+        
+        [System.Runtime.Serialization.EnumMember(Value="CalculateFromCircuitLength")]
+        CalculateFromCircuitLength = 1,
+        
+        [System.Runtime.Serialization.EnumMember(Value="OnePerSurface")]
+        OnePerSurface = 2,
+    }
+}

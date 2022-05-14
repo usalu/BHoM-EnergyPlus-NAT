@@ -28,7 +28,7 @@ For quick modelling just create one "EPSimulationFile" and then go over with the
 
 ![Create Simulation file](/docs/Gifs/BHoM_EnergyPlus_YAT_Grasshopper_Demo.gif)
 
- BHoM_EnergyPlus_YAT + [Honeybee](https://github.com/ladybug-tools/honeybee-energy) = :heart: 
+ BHoM-EnergyPlus-NAT + [Honeybee](https://github.com/ladybug-tools/honeybee-energy) = :heart: 
  
 Use Honeybee to create a quick base IDF and add any further functionality with this toolkit. This way you combine the simplicity of Honeybee without loosing power of customization. 
 
